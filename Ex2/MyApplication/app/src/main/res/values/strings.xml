@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Currency converter</string>
+    <string-array name="cur2cur">
+        <item>USD to VND</item>
+        <item>USD to GBP</item>
+        <item>VND to USD</item>
+        <item>VND to GBP</item>
+        <item>GBP to USD</item>
+        <item>GBP to VND</item>
+    </string-array>
+    <string name="announce">Wrong input!</string>
+    <string name="cur1">Amount of currency 1:</string>
+    <string name="cur2">Amount of currency 2:</string>
+    <string name="btnstr">Convert</string>
+
+</resources>
